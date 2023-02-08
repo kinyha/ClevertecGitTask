@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("add major feature 2");
 		System.out.println("add major feature 3");
 		System.out.println("add major feature 4");
+		System.out.println("add major feature 5");
     }
 }
