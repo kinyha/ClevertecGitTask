@@ -1,1 +1,2 @@
-do release
+do release 1
+do release 2
